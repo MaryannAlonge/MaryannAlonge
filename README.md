@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryannalonge&label=Profile%20views&color=0e75b6&style=flat" alt="maryannalonge" /> </p>
 
-<p align="left"> <a href="https://twitter.com/onemillie" target="blank"><img src="https://img.shields.io/twitter/follow/onemillie?logo=twitter&style=for-the-badge" alt="onemillie" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_OneMILLIE?t=ybhC5ApzZ7CKEYLZQ-N7Lw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/onemillie?logo=twitter&style=for-the-badge" alt="onemillie" /></a> </p>
 
 - 📫 How to reach me **ariyikemaryann@gmail.com**
 
