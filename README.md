@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryannalonge&show_icons=true&locale=en" alt="maryannalonge" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maryannalonge)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maryannalonge&theme=tokyonight)](https://git.io/streak-stats)
