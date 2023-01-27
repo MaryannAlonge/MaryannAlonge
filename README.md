@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/200/1*OxT7UjIwhklKE8d8SFyo7g.gif)
+![MasterHead](https://miro.medium.com/max/200/1*OxT7UjIwhklKE8d8SFyo7g.gif) 
 <h1 align="center">Hi there👋, I'm Maryann</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
